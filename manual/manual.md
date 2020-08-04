@@ -35,7 +35,7 @@ sudo dpkg -i vagrant_2.2.6_x86_64.deb
 
 ```
 curl https://releases.hashicorp.com/packer/1.4.4/packer_1.4.4_linux_amd64.zip | \
-sudo gzip -d > /usr/local/bin/packer && \
+sudo gzip -d > /usr/local/bin/packer && \		
 sudo chmod +x /usr/local/bin/packer
 ```
 

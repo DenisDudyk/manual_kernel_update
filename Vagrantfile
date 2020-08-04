@@ -5,9 +5,9 @@ MACHINES = {
               # VM box
               :box_name => "centos/7",
               # VM CPU count
-              :cpus => 2,
+              :cpus => 4,
               # VM RAM size (Mb)
-              :memory => 1024,
+              :memory => 2048,
               # networks
               :net => [],
               # forwarded ports
